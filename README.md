@@ -4,8 +4,6 @@
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://recondite-salute-14b.notion.site/24f0a17c91ac8022b3c3d68ed12ae4ed?pvs=74)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:leegamgam121@gmail.com)
 
-
-
 <br>
 
 ## Tech Stack
@@ -28,6 +26,8 @@
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)]()
+
+<br>
 
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
 
