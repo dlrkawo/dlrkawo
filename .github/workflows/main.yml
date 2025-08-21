@@ -2,22 +2,31 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"  # 03:00 KST
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # ← 중요
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4  # ← v4 권장 (토큰 자격증명 자동 세팅)
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0              # ← 리베이스 위해 전체 히스토리 필요
+
+      # 원격 최신 상태로 먼저 동기화(비-FF 방지)
+      - name: Sync with remote (rebase)
+        run: |
+          CURRENT_BRANCH="$(git rev-parse --abbrev-ref HEAD)"
+          git fetch origin
+          git pull --rebase origin "$CURRENT_BRANCH"
 
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ github.token }}       # ← 기본 토큰 사용
+          GITHUB_TOKEN: ${{ github.token }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
@@ -26,4 +35,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "generated" || echo "nothing to commit"
-          git push origin HEAD        # ← 현재 브랜치로 푸시(브랜치명 혼동 방지)
+          git push origin HEAD
