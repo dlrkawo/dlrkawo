@@ -22,10 +22,24 @@
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)]()
 [![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)]()
+![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)
 
+<br>
+
+# Experience & Projects
+### 2024
+- 2024학년도 레고 모빌리티 자율주행 경주대회
+### 2025
+- 2025 대경권 대학생 프로그래밍 경진대회
+- 2025 레고 모빌리티 자율주행 경주대회
+- 9oormthonUNIV-4th 울산대 Web FE developer
+- UMC-9th 울산대 Web FE developer
+- 캡스톤 디자인 (-ing)
+
+<br>
 
 # Grass
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
