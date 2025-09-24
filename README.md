@@ -32,15 +32,18 @@
 # Experience & Projects
 ### 2024
 - 2024학년도 레고 모빌리티 자율주행 경주대회
+
 ### 2025
 - 2025 대경권 대학생 프로그래밍 경진대회
 - 2025 레고 모빌리티 자율주행 경주대회
 - 9oormthonUNIV-4th 울산대 Web FE developer
 - UMC-9th 울산대 Web FE developer
+
 ### NOW
-- 캡스톤 디자
+- 캡스톤 디자인
 - UMC-9th 울산대 Web FE developer
 - 2025 글로벌 빅테크 자격증 과정 (AWS)
+
 <br>
 
 # Grass
