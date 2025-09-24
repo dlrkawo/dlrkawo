@@ -38,7 +38,7 @@
 - 9oormthonUNIV-4th 울산대 Web FE developer
 - UMC-9th 울산대 Web FE developer
 ### NOW
-- 캡스톤 디자인 (-ing)
+- 캡스톤 디자
 - UMC-9th 울산대 Web FE developer
 - 2025 글로벌 빅테크 자격증 과정 (AWS)
 <br>
