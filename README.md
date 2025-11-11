@@ -41,10 +41,12 @@
 - UMC-9th 울산대 Web FE developer
 
 ### NOW
-- 캡스톤 디자인
+- 캡스톤 디자인 AI Tutor LMS FE developer
 - UMC-9th 울산대 Web FE developer
 - 2025 글로벌 빅테크 자격증 과정 (AWS)
 
+### Future
+- ?
 <br>
 
 # Grass
