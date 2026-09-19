@@ -1,8 +1,8 @@
 # Projects
 
-## UTEUM (으뜸)
+## 으뜸(UTEUM)
 
-> PDF 강의 자료를 기반으로 설명, 질의응답, 퀴즈와 오개념 교정을 제공하는 AI 학습 플랫폼
+> 멀티에이전트 기반 사용자 맞춤형 학습 플랫폼
 
 - **Role:** Frontend Developer
 - React와 TypeScript 기반의 역할별 학습 서비스 UI 개발
@@ -12,7 +12,7 @@
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `Vitest` `Testing Library`
 
-## JOONGSIM
+## 중심(JOONGSIM)
 
 > 브랜드의 정체성과 콘텐츠를 전달하는 공식 웹페이지 구축 예정
 
