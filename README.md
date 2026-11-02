@@ -48,17 +48,19 @@
 
 ### 캡스톤 디자인 및 경진대회
 
+- **활동:** 팀 AutoAI FE Developer
 - **프로젝트:** 멀티에이전트 기반 사용자 맞춤형 학습 플랫폼 `EduPilot AI` · [GitHub](https://github.com/dlrkawo/UOU_Capstone_Design_FE)
 - **수상:** 최우수상
 
 ### WAVE 2026 대학생 AI/SW 아이디어 피칭대회
 
+- **활동:** 팀 AutoAI FE Developer
 - **프로젝트:** 멀티에이전트 기반 사용자 맞춤형 학습 플랫폼 `으뜸(UTEUM)` · [GitHub](https://github.com/AutoAI-UTEUM/FE)
 - **수상:** 우수상
 
 ### SUMTECH 2026 해커톤
 
-- **활동:** 울산대학교 BE Developer
+- **활동:** 팀 눌러보슈 BE Developer
 - **프로젝트:** AI 화면 안내 서비스 `눌러보슈` · [GitHub](https://github.com/dlrkawo/sumtech2026-team13)
 - **수상:** 장려상
 
