@@ -42,24 +42,25 @@
 
 ### 구름톤 유니브 4기
 
-- 울산대학교 Web Frontend Developer
-- **RealThon** — 심리상담 웹앱 `다독이다` 프론트엔드 개발 · [GitHub](https://github.com/dlrkawo/RealThon-dadok-FE)
-- **SeasonThon** — AI 청년정책 추천 서비스 `청춘스케치` 프론트엔드 개발 · [GitHub](https://github.com/dlrkawo/2025_SEASONTHON_TEAM_97_FE)
+- **활동:** 울산대학교 Web Frontend Developer
+- **프로젝트:** RealThon — 심리상담 웹앱 `다독이다` 프론트엔드 개발 · [GitHub](https://github.com/dlrkawo/RealThon-dadok-FE)
+- **프로젝트:** SeasonThon — AI 청년정책 추천 서비스 `청춘스케치` 프론트엔드 개발 · [GitHub](https://github.com/dlrkawo/2025_SEASONTHON_TEAM_97_FE)
 
 ### 캡스톤 디자인 및 경진대회
 
-- AI 기반 맞춤형 교육 플랫폼 `AI Tutor LMS` 프론트엔드 개발 · [GitHub](https://github.com/dlrkawo/UOU_Capstone_Design_FE)
-- **최우수상**
+- **프로젝트:** AI 기반 맞춤형 교육 플랫폼 `AI Tutor LMS` 프론트엔드 개발 · [GitHub](https://github.com/dlrkawo/UOU_Capstone_Design_FE)
+- **수상:** 최우수상
 
 ### WAVE 2026 대학생 AI/SW 아이디어 피칭대회
 
-- 멀티 에이전트 기반 맞춤형 학습 관리 플랫폼 `으뜸(UTEUM)` 발표
-- **우수상**
+- **프로젝트:** 멀티 에이전트 기반 맞춤형 학습 관리 플랫폼 `으뜸(UTEUM)` 발표
+- **수상:** 우수상
 
 ### SUMTECH 2026 해커톤
 
-- AI 화면 안내 서비스 `눌러보슈` · 2026.10
-- **장려상**
+- **프로젝트:** AI 화면 안내 서비스 `눌러보슈` · [GitHub](https://github.com/dlrkawo/sumtech2026-team13)
+- **기간:** 2026.10
+- **수상:** 장려상
 
 <br>
 
