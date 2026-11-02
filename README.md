@@ -42,7 +42,7 @@
 
 ### 구름톤 유니브 4기
 
-- **활동:** 울산대학교 Web Frontend Developer
+- **활동:** 울산대학교 FE Developer
 - **프로젝트:** RealThon — 심리상담 웹앱 `다독이다` · [GitHub](https://github.com/dlrkawo/RealThon-dadok-FE)
 - **프로젝트:** SeasonThon — AI 청년정책 추천 서비스 `청춘스케치` · [GitHub](https://github.com/dlrkawo/2025_SEASONTHON_TEAM_97_FE)
 
@@ -58,7 +58,8 @@
 
 ### SUMTECH 2026 해커톤
 
-- **프로젝트:** AI 화면 안내 서비스 `눌러보슈` BE Develop · [GitHub](https://github.com/dlrkawo/sumtech2026-team13)
+- **활동:** 울산대학교 BE Developer
+- **프로젝트:** AI 화면 안내 서비스 `눌러보슈` · [GitHub](https://github.com/dlrkawo/sumtech2026-team13)
 - **수상:** 장려상
 
 <br>
