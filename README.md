@@ -68,4 +68,4 @@
 
 # GitHub Activity
 
-![3D Profile](./profile-3d-contrib/profile-night-green.svg)
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=dlrkawo)](https://github.com/marshallku/gitgarden)
